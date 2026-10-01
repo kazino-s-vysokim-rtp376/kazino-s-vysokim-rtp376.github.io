@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kazino-s-vysokim-rtp376.github.io/sitemap.xml
